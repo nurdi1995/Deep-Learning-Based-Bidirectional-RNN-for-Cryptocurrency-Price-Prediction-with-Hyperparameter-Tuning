@@ -1,0 +1,2 @@
+# Deep-Learning-Based-Bidirectional-RNN-for-Cryptocurrency-Price-Prediction-with-Hyperparameter-Tuning
+The dataset was split into 80% for training and 20% for testing. Model performance evaluation was carried out using metrics such as Root Mean Square Error (RMSE), Mean Squared Error (MSE), Mean Absolute Percentage Error (MAPE), coefficient of determination (R²), Directional Statistic (D-Stat), and loss values 
